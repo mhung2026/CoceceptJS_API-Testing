@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "codeceptjs": "^3.6.5"
+  }
+}
