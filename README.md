@@ -63,6 +63,7 @@ This file manages the project's dependencies and scripts
         console.log(response.statusText, response.data);
       });
       ```
+    - Example API: [API_BMI](https://github.com/mhung2026/API_BMI)
 2. Configuration
    - Update codecept.conf.js:
      - Configure the base URL, headers, and other settings in the codecept.conf.js file to match your API requirements.
